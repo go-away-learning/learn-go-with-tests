@@ -1,0 +1,3 @@
+- We learned about `for` and `Benchmark`, but I already knew about them (they are quite simple)
+- Besides that, there was not much else in this chapter, just more practice of past concepts
+- It was cool to look through the `strings` package, it actually made change my implementation to use `rune` type for the character parameter and to start using `strings.Builder` for concatenation.
