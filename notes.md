@@ -1,0 +1,8 @@
+- Array vs Slices
+- Test coverage
+- Variadic functions
+- Comparing slices
+- `reflect.DeepEqual` is not "type safe"
+- Slicing slices: slice[low:high]
+- Assigning a function to a variable
+- `testing.B` and `testing.T` are structs, whose pointer receivers implement the `testing.TB` interface. You don't want the pointer on testing.TB. The struct pointers implement that interface, and you don't need a pointer to the resulting interface value.
